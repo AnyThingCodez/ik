@@ -4,8 +4,9 @@ App Detail
 1. Project Name: Events
 2. DB file Name: eventdb
 3. Language Used:PHP
-4. Database Used:XAMP
-Deployment
+4. Database Used:MYSQL
+5. Local Server Used: XAMP
+App Deployment
 1. Copy the project folder to htdocs folder  inside xamp folder
 2. Restore database file
 3. Start Xamp Server
